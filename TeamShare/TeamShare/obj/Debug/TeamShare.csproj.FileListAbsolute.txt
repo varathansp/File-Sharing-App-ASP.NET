@@ -1,0 +1,5 @@
+c:\users\vsuyambu\documents\visual studio 2010\Projects\TeamShare\TeamShare\bin\TeamShare.dll
+c:\users\vsuyambu\documents\visual studio 2010\Projects\TeamShare\TeamShare\bin\TeamShare.pdb
+c:\users\vsuyambu\documents\visual studio 2010\Projects\TeamShare\TeamShare\obj\Debug\TeamShare.dll
+c:\users\vsuyambu\documents\visual studio 2010\Projects\TeamShare\TeamShare\obj\Debug\TeamShare.pdb
+C:\Users\vsuyambu\documents\visual studio 2010\Projects\TeamShare\TeamShare\obj\Debug\TeamShare.csprojResolveAssemblyReference.cache
